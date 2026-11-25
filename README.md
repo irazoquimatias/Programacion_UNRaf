@@ -9,7 +9,7 @@ En este repositorio encontrará el material para la cursada de Programación de 
 
 ## Próxima clase de consulta (virtual):
 
-   📆 Martes 17/11
+   📆 Miercoles 25/11
    
    🕓 16:00 a 17:00
     
